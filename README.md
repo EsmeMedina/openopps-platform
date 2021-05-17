@@ -8,7 +8,7 @@ Badge | Status
 
 ---
 
-[Open Opportunities](http://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/) is creating a network of federal employees that will lead to a more effective, efficient, responsive government by sharing skills and collaborating on projects that support the mission of an agency or the government as a whole.
+[Open Opportunities](http://www.digitalgov.gov/join-digitalgov/open-opportunities-in-digitalgov/) is creating a network of state employees that will lead to a more effective, efficient, responsive government by sharing skills and collaborating on projects that support the mission of an agency or the government as a whole.
 
 OpenOpps is the open source platform that supports the Open Opportunities program.  As open source software, it can be deployed by state or local governments or in the private sector.  It is free to use by anyone who can has technical operations staff and passion to start a new program, and we welcome everyone who would like to contribute to improving the platform.
 
